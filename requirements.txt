@@ -1,0 +1,5 @@
+dotenv
+numpy
+pandas
+streamlit
+fitz
